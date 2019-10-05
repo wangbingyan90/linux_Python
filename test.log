@@ -1,0 +1,5 @@
+2019-10-04 11:28:48 a.py[line:3]  info logging
+2019-10-04 11:28:48 a.py[line:4] debug logging
+2019-10-04 11:28:48 a.py[line:5] warning logging
+2019-10-04 11:28:48 a.py[line:6] error logging
+2019-10-04 11:28:48 a.py[line:7] critical logging
